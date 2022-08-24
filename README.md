@@ -1,2 +1,3 @@
 # MicrosoftWorldKaydet!
-[Ekran görüntüsü 2022-08-23 165848](https://user-images.githubusercontent.com/73031908/186354133-4a01d849-0ccc-44b7-b1b1-be40eef77843.png)
+
+![Ekran görüntüsü ](https://user-images.githubusercontent.com/73031908/186354413-5806aa2f-6b54-400b-af55-b77e27ad90ce.png)
